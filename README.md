@@ -6,7 +6,7 @@
 
 This repository contains my analysis and review of the paper "A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery" by Zhang et al. (2024).
 
-![Paper Overview](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models/raw/main/figure1.png)
+![Paper Overview](https://github.com/syedanida/Scientific-LLMs-Survey/blob/main/Article-A%20Comprehensive%20Survey%20of%20Scientific%20Large%20Language%20Models%20and%20%20Their%20Applications%20in%20Scientific%20Discovery.pdf)
 
 ## 📚 Project Overview
 
