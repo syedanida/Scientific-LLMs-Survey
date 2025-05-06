@@ -73,14 +73,3 @@ Based on the paper's findings, I identify several promising research directions:
 2. Development of more interpretable scientific models
 3. Expansion of multi-modal capabilities to include more scientific data types
 4. Creation of unified scientific foundation models across domains
-
-## 📝 Citation
-
-```bibtex
-@inproceedings{zhang2024comprehensive,
-  title={A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery},
-  author={Zhang, Yu and Chen, Xiusi and Jin, Bowen and Wang, Sheng and Ji, Shuiwang and Wang, Wei and Han, Jiawei},
-  booktitle={EMNLP'24},
-  pages={8783--8817},
-  year={2024}
-}
