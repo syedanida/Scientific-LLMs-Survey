@@ -29,9 +29,9 @@ My published article provides an accessible overview of scientific LLMs and thei
 ### 🎞️ Presentation Slides
 The slide deck summarizes the key points from the paper and provides visual explanations of major concepts.
 
-**Link**: [SlideShare Presentation](https://www.slideshare.net/yourname/scientific-llms-presentation)
+**Link**: [SlideShare Presentation](https://www.slideshare.net/slideshow/scientific-large-language-models-in-multi-modal-domains/279062818)
 
-**Download**: [PDF Slides](./slides/Scientific_LLMs_Presentation.pdf)
+**Download**: [PDF Slides](https://github.com/syedanida/Scientific-LLMs-Survey/blob/main/Scientific%20LLMs%20Survey.pdf)
 
 ### 🎥 Presentation Video
 A 20-minute walkthrough of the paper's key findings and implications for scientific research.
