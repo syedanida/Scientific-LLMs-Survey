@@ -36,7 +36,7 @@ The slide deck summarizes the key points from the paper and provides visual expl
 ### 🎥 Presentation Video
 A 20-minute walkthrough of the paper's key findings and implications for scientific research.
 
-**Link**: [YouTube Presentation](https://youtube.com/watch?v=xxxxx)
+**Link**: [YouTube Presentation](https://youtu.be/SG3p_pJ44oQ)
 
 ## 📊 Key Insights
 
