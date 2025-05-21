@@ -31,7 +31,7 @@ The slide deck summarizes the key points from the paper and provides visual expl
 
 **Link**: [SlideShare Presentation](https://www.slideshare.net/slideshow/scientific-large-language-models-in-multi-modal-domains/279062818)
 
-**Download**: [PDF Slides](https://github.com/syedanida/Scientific-LLMs-Survey/blob/main/Scientific%20LLMs%20Survey.pdf)
+**PDF Link**: [PDF Slides](https://github.com/syedanida/Scientific-LLMs-Survey/blob/main/Customized-Multiple-Clustering-via-Multi-Modal-Subspace-Proxy-Learning.pdf)
 
 ### 🎥 Presentation Video
 A 20-minute walkthrough of the paper's key findings and implications for scientific research.
