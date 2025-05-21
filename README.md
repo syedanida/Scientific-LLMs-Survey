@@ -29,7 +29,7 @@ My published article provides an accessible overview of scientific LLMs and thei
 ### 🎞️ Presentation Slides
 The slide deck summarizes the key points from the paper and provides visual explanations of major concepts.
 
-**Link**: [SlideShare Presentation](https://www.slideshare.net/slideshow/scientific-large-language-models-in-multi-modal-domains/279062818)
+**Link**: [SlideShare Presentation](https://www.slideshare.net/slideshow/customized-multiple-clustering-via-multi-modal-subspace-proxy-learning-pdf/279444773)
 
 **PDF Link**: [PDF Slides](https://github.com/syedanida/Scientific-LLMs-Survey/blob/main/Customized-Multiple-Clustering-via-Multi-Modal-Subspace-Proxy-Learning.pdf)
 
